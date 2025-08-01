@@ -1,5 +1,4 @@
 
-import { a } from "framer-motion/client";
 import { GithubIcon } from "../icons/gitHub";
 import { LinkedIn } from "../icons/linkedIn";
 import image1 from "../Pictures/ppp4.jpg";
