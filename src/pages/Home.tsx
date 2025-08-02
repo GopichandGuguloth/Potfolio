@@ -5,7 +5,7 @@ import image1 from "../Pictures/ppp4.jpg";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { FaDownload } from "react-icons/fa";
-import resume from "../files/Gopichand Guguloth Resume.pdf"
+import resume from "../files/RESUME.pdf"
 
 
 export function Home() {
